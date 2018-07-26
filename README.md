@@ -12,3 +12,7 @@ You can also register as a new user.
 1. First install ionic - `npm install -g ionic`
 2. Install required node modules in project directory by command - `npm install` 
 3. Run your app - `ionic serve`. It will launch application in web browser. 
+
+### Link of mobile app
+1. [Digital-Pass](https://drive.google.com/drive/folders/1wkyEGbc53Mw5lfnl9WlZB9h3CMu4vw8_)
+2. [Pass-Scanner](https://drive.google.com/drive/folders/1wkyEGbc53Mw5lfnl9WlZB9h3CMu4vw8_)
